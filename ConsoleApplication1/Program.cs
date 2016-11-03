@@ -14,7 +14,7 @@ namespace ConsoleApplication1
 
             // Useful comment
 
-            // Very random comment.
+            // More useful comment
         }
     }
 }
