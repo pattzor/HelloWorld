@@ -13,6 +13,8 @@ namespace ConsoleApplication1
             Console.WriteLine("Hello world.");
 
             // Useful comment
+
+            // More useful comment
         }
     }
 }
